@@ -1,0 +1,15 @@
+{
+    "name": "array-segregator",
+    "version": "1.0.0",
+    "repository": {
+        "url": "https://github.com/Ashvin-Manwar/array-segregatorbytype.git"
+    },
+    "author": "Ashvin Manwar",
+    "license": "MIT",
+    "scripts": {
+        "compile": "rm -rf dist/lib && tsc && tsc --build tsconfig.es5.json"
+    },
+    "devDependencies": {
+        "typescript": "^5.4.3"
+    }
+}
