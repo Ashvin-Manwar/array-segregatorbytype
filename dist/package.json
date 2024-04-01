@@ -1,0 +1,29 @@
+{
+    "name": "array-segregator",
+    "version": "1.0.0",
+    "description": "An Array  Segregator By Types",
+    "main": "lib/es5/index.js",
+    "module": "lib/es6/index.js",
+    "sideEffects":false,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ashvin-Manwar/array-segregatorbytype.git"
+    },
+    "files": [
+        "lib",
+        "CHANGELOG.md",
+        "LICENSE",
+        "package.json",
+        "README.md"
+    ],
+    "keywords": [
+        "javascript",
+        "typescript",
+        "segregator"
+    ],
+    "author": {"name": "Ashvin Manwar"},
+    "license":"MIT",
+    "bugs": {}
+
+    
+}
