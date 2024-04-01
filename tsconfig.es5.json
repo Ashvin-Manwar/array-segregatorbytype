@@ -1,11 +1,11 @@
 {
     "compilerOptions": {
         "module": "CommonJS",
-        "target": "ES5",
+        "target": "ES6",
         "lib": ["ES2020","DOM"],
         "declaration": true,
         "outDir": "./dist/lib/es5",
-        "moduleResolution": "Node10"
+        "moduleResolution": "Node16"
     },
     "include": ["src/**/*"]
 }
