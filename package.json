@@ -11,5 +11,8 @@
     },
     "devDependencies": {
         "typescript": "^5.4.3"
+    },
+    "dependencies": {
+        "array-segregator": "^1.0.0"
     }
 }
